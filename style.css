@@ -1409,12 +1409,13 @@ h2 {
 }
 
 #about{position: absolute;
-    background-color:rgba(180,37,55,0.9);
+    background-color:rgba(180,37,55,0.93);
 width: 60vh;
 height: 70vh;
 top:15vh;
 right: 0;
-transform: translateX(0);
+transform: translateX(57vh);
+    transition-duration: 1s;
 padding-top: 25px;
 }
 
