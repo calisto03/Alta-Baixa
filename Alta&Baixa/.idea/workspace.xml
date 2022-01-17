@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c6b8da-1ebe-42a3-80ee-535936f3227b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/calisto03/Alta-Baixa" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="210TsEJjj7qLBoDlx1JQpyi4f3T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paisl\Desktop\uni\Mestrado\Oficina de Design de Comunicação\Site\javaScript" />
+      <recent name="C:\Users\paisl\Desktop\uni\Mestrado\Oficina de Design de Comunicação\Site" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c6b8da-1ebe-42a3-80ee-535936f3227b" name="Changes" comment="" />
+      <created>1637077210254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637077210254</updated>
+      <workItem from="1637077211567" duration="9891000" />
+      <workItem from="1637144867321" duration="446000" />
+      <workItem from="1637159568829" duration="5228000" />
+      <workItem from="1637178288932" duration="3609000" />
+      <workItem from="1637181964220" duration="323000" />
+      <workItem from="1637331435030" duration="200000" />
+      <workItem from="1637659596958" duration="1521000" />
+      <workItem from="1637661234009" duration="15337000" />
+      <workItem from="1637838663176" duration="1512000" />
+      <workItem from="1638265051830" duration="7971000" />
+      <workItem from="1638524615788" duration="1000" />
+      <workItem from="1638524669441" duration="3993000" />
+      <workItem from="1638897333593" duration="1029000" />
+      <workItem from="1638901433431" duration="496000" />
+      <workItem from="1638904887297" duration="2343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
