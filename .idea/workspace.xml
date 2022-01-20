@@ -30,12 +30,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaScript" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paisl\Desktop\uni\Mestrado\Desenvolvimento Web\projeto\Alta-Baixa\javaScript" />
       <recent name="C:\Users\paisl\Desktop\uni\Mestrado\Desenvolvimento Web\projeto\Alta-Baixa\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -93,7 +94,10 @@
       <workItem from="1642095958238" duration="5000" />
       <workItem from="1642243606532" duration="2078000" />
       <workItem from="1642342546001" duration="7200000" />
-      <workItem from="1642445008013" duration="8726000" />
+      <workItem from="1642445008013" duration="9281000" />
+      <workItem from="1642551267513" duration="33000" />
+      <workItem from="1642591947012" duration="1824000" />
+      <workItem from="1642680537974" duration="1437000" />
     </task>
     <servers />
   </component>
