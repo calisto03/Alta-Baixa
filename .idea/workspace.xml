@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -97,7 +97,9 @@
       <workItem from="1642445008013" duration="9281000" />
       <workItem from="1642551267513" duration="33000" />
       <workItem from="1642591947012" duration="1824000" />
-      <workItem from="1642680537974" duration="1437000" />
+      <workItem from="1642680537974" duration="2097000" />
+      <workItem from="1642936328859" duration="39000" />
+      <workItem from="1644151647717" duration="1077000" />
     </task>
     <servers />
   </component>
